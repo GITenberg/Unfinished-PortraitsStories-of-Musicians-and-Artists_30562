@@ -1,0 +1,32 @@
+_repo: Unfinished-PortraitsStories-of-Musicians-and-Artists_30562
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30562-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lee, Jennette
+    aliases:
+    - Lee, G. S., Mrs.
+    - Lee, Jennette Barbour Perry
+    birthdate: 1860
+    deathdate: 1951
+    gutenberg_agent_id: '1520'
+    url: http://www.gutenberg.org/2009/agents/1520
+description: ''
+gutenberg_issued: '2009-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians'
+- !lcc 'PS'
+- !lcsh 'Artists'
+tableOfContents: 'There was in Florence a lady -- Thumbs and fugues -- A window of
+  music -- Frederic Chopin: a record -- The man with the glove -- The lost monogram.'
+title: 'Unfinished Portraits: Stories of Musicians and Artists'
+url: http://www.gutenberg.org/ebooks/30562
